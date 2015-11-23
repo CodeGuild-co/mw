@@ -1,0 +1,6 @@
+{
+  "name": "My Blog",
+  "description": "A base blog project written in Java for the CodeGuild course",
+  "image": "heroku/java",
+  "addons": [ ]
+}
