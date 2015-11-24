@@ -7,7 +7,7 @@
         <#include "../nav.ftl">
         <div class="container">
             <div class="row">
-                <h3>Hello World!</h3>
+                <h3>Tools, Texts and Terminals</h3>
                 <p>
                 The text editor that I use when I get the time to code is Sublime. 
                 I much prefer Sublime’s sleek design to that of Notepad++ and I 
