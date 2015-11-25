@@ -8,7 +8,7 @@
         <div class="jumbotron text-center">
             <div class="container">
                 <h1>My Blog</h1>
-                <p>This is a skeleton blog site written in Java (with Spark).</p>
+                <p>This is a wonderful blog site written in Java (with Spark).</p>
             </div>
         </div>
         <div class="container">
