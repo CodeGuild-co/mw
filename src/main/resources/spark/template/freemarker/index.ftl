@@ -11,7 +11,7 @@
                 <p>This is a completely original blog site written in Java (with Spark).</p>
             </div>
         </div>
-        <div class="container">
+        <div class="container" id="list">
             <div class="row">
                 <div class="col-md-6">
                     <h3>I've written three blog posts!</h3>
