@@ -8,13 +8,13 @@
         <div class="jumbotron text-center">
             <div class="container">
                 <h1>My Blog</h1>
-                <p>This is a wonderful blog site written in Java (with Spark).</p>
+                <p>This is a completely original blog site written in Java (with Spark).</p>
             </div>
         </div>
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h3>I've written two blog posts!</h3>
+                    <h3>I've written three blog posts!</h3>
                     <ul>
                         <li><a href="/posts/hello_world/">Hello World</a></li>
                         <li><a href="/posts/solving_problems_and_being_lazy/">Solving Problems and Being Lazy</a></li>
