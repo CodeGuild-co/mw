@@ -14,7 +14,7 @@
         <div class="container" id="list">
             <div class="row">
                 <div class="col-md-6">
-                    <h3><align=center>I've written three blog posts! </h3>
+                    <h3><center>I've written three blog posts! </h3>
                     <ul>
                         <li><a href="/posts/hello_world/">Hello World</a></li>
                         <li><a href="/posts/solving_problems_and_being_lazy/">Solving Problems and Being Lazy</a></li>
