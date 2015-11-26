@@ -8,7 +8,7 @@
         <div class="jumbotron text-center">
             <div class="container">
                 <h1>My Blog</h1>
-                <p>This is a completely original blog site written in Java (with Spark).</p>
+                <p>Billy Mayor is my idol!! <3 !!.</p>
             </div>
         </div>
         <div class="container">
