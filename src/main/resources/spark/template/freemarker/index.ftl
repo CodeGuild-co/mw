@@ -13,12 +13,12 @@
         </div>
         <div class="container">
             <div class="row">
-                <center><div class="col-md-6">
+                <div class="col-md-6 col-md-offset-3">
                     <h3>I've written 3 blog posts.</h3>
-                        <p><a href="/posts/hello_world/">Hello World</a></p>
-                        <p><a href="/posts/solving_problems_and_being_lazy/">Solving Lazy and Being Problems</a></p>
-                        <p><a href="/posts/tools_texts_and_terminals/">Tools, Texts and Terminals</a></p>
-                </div></center>
+                        <p><a href="/posts/hello_world/">Hello World</a><br/>
+                        <a href="/posts/solving_problems_and_being_lazy/">Solving Lazy and Being Problems</a><br/>
+                        <a href="/posts/tools_texts_and_terminals/">Tools, Texts and Terminals</a></p>
+                </div>
             </div>
         </div>
     </body>
