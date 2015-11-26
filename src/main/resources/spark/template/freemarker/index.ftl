@@ -6,7 +6,7 @@
     <body>
         <#include "nav.ftl">
         <div class="jumbotron text-center">
-        <img src="https://pbs.twimg.com/profile_images/656958337519628288/2btnLcHn.png" align="center" height=9% width=9% border="5">
+        <img src="https://pbs.twimg.com/profile_images/656958337519628288/2btnLcHn.png" align="center" height=15% width=15% border="5">
             <div class="container">
                 <h1>Matthew's Blog</h1>
                 <p>A completely original blog written by your favourite foreigner.</p>
