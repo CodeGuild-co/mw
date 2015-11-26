@@ -7,7 +7,7 @@
         <#include "nav.ftl">
         <div class="jumbotron text-center">
             <div class="container">
-                <h1>My Blog</h1>
+                <h1>Paul is a manly man</h1>
                 <p>Billy Mayor is my idol!! <3 !!.</p>
             </div>
         </div>
