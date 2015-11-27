@@ -5,7 +5,7 @@
     </head>
     <body>
         <#include "nav.ftl">
-        <div class="jumbotron">
+        <div class="jumbotron text-centre">
             <div class="container">
                 <h1>Matthew's Blog</h1> 
                 <p>18 | Student | Belfast, Northern Ireland</p>
