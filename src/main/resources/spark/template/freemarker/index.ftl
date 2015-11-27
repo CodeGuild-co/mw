@@ -6,8 +6,6 @@
     <body>
         <#include "nav.ftl">
         <div class="jumbotron text-center">
-        <img src="https://pbs.twimg.com/profile_images/656958337519628288/2btnLcHn.png" align="center" height=15% width=15% border="5">
-        <img src="https://pbs.twimg.com/profile_images/666049693043056641/2ehVxUUE.jpg" align="center" height=15% width=15% border="3">    
             <div class="container">
                 <h1>Matthew Wilson</h1>
                 <p>18 | Student | Belfast, Northern Ireland</p>
