@@ -7,7 +7,7 @@
         <#include "nav.ftl">
         <div class="jumbotron">
             <div class="container">
-                <pMatthew Wilson</p>
+                <p>Matthew Wilson</p>
                 <p>18 | Student | Belfast, Northern Ireland</p>
             </div>
         </div>
