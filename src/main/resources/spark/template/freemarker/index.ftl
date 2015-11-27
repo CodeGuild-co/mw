@@ -5,9 +5,9 @@
     </head>
     <body>
         <#include "nav.ftl">
-        <div class="jumbotron text-center">
+        <div class="jumbotron">
             <div class="container">
-                <h1>Matthew Wilson</h1>
+                <pMatthew Wilson</p>
                 <p>18 | Student | Belfast, Northern Ireland</p>
             </div>
         </div>
