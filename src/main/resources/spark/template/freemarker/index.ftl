@@ -5,7 +5,7 @@
     </head>
     <body>
         <#include "nav.ftl">
-        <div class="jumbotron text-centre">
+        <div class="jumbotron text-center">
             <div class="container">
                 <h1>Matthew's Blog</h1> 
                 <p>18 | Student | Belfast, Northern Ireland</p>
@@ -18,7 +18,7 @@
                         <p><a href="/posts/hello_world/">Hello World</a><br/>
                         <a href="/posts/solving_problems_and_being_lazy/">Solving Lazy and Being Problems</a><br/>
                         <a href="/posts/tools_texts_and_terminals/">Tools, Texts and Terminals</a></p>
-                </div></center>
+                </center></div>
             </div>
         </div>
     </body>
