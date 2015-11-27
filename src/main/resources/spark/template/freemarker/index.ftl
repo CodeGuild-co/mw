@@ -17,8 +17,8 @@
                     <center><h3>I've written blog posts.</h3>
                         <p><a href="/posts/hello_world/">Hello World</a><br/>
                         <a href="/posts/solving_problems_and_being_lazy/">Solving Problems and Being Lazy</a><br/>
-                        <a href="/posts/tools_texts_and_terminals/">Tools, Texts and Terminals</a></p><br/>
-                        <a href="/posts/billys_guest_post/">Billy's Guest Post</a></p><br/>
+                        <a href="/posts/tools_texts_and_terminals/">Tools, Texts and Terminals</a><br/>
+                        <a href="/posts/billys_guest_post/">Billy's Guest Post</a><br/>
                         <a href="/posts/departures/">Departures</a></p>
                 </center></div>
             </div>
