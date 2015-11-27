@@ -14,7 +14,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3">
-                    <center><h3>I've written 3 blog posts.</h3>
+                    <center><h3>I've written blog posts.</h3>
                         <p><a href="/posts/hello_world/">Hello World</a><br/>
                         <a href="/posts/solving_problems_and_being_lazy/">Solving Lazy and Being Problems</a><br/>
                         <a href="/posts/tools_texts_and_terminals/">Tools, Texts and Terminals</a></p>
